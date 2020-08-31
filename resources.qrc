@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="fileopen.png">images/fileopen.png</file>
+<file alias="icon.png">images/icon.png</file>
+<file alias="cancel.png">images/cancel.png</file>
+<file alias="flow_chart.png">images/flow_chart.png</file>
+<file alias="genealogy.png">images/genealogy.png</file>
+<file alias="mind_map.png">images/mind_map.png</file>
+<file alias="next.png">images/next.png</file>
+<file alias="search.png">images/search.png</file>
+<file alias="find.png">images/find.png</file>
+<file alias="wait.png">images/wait.png</file>
+<file alias="delete.png">images/delete.png</file>
+<file alias="prev.png">images/prev.png</file>
+<file alias="miaomiao.png">images/miaomiao.png</file>
+<file alias="loudou.png">images/loudou.png</file>
+</qresource>
+</RCC>
